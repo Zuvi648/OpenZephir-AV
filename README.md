@@ -1,7 +1,4 @@
-# OpenZephir-AV
-⚡ Open-source antivirus engine built for transparency, speed, and modularity — the core of the OpenZephir security ecosystem.
-
-# OpenZephir AV — Core Antivirus Engine
+# OpenZephir AV — Core Antivirus Engine 🧬
 
 OpenZephir AV is the foundational antivirus component of the OpenZephir Security Platform — a modular, auditable, and developer-first security engine.
 
